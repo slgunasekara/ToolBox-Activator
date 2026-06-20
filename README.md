@@ -111,6 +111,6 @@ This project is an automation wrapper that relies on the amazing work of the fol
 Made with ❤️ by [neKamita](https://github.com/neKamita)
 
 
-[neKamita](https://github.com/neKamita/ToolBox-Activator)
+[Repository](https://github.com/neKamita/ToolBox-Activator)
 
 </div>
